@@ -1,0 +1,2 @@
+# VinhoVerde
+Applied statistics project
