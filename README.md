@@ -1,5 +1,5 @@
 # VinhoVerde
-Applied statistics project, collaboration with github.com/Franceeeee
+Applied statistics project, collaboration with github.com/Franceeeee, github.com/Sateeee00
 
 The project aims to describe statistically the wines in the upper region of Portugal,
 the precise name of the variety is the Vinho Verde
